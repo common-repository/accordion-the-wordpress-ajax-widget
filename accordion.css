@@ -1,0 +1,10 @@
+#sidebar ul div#accordiondiv ul,div#accordiondiv ul
+{
+	margin: 0;
+	padding: 0;
+}
+#sidebar ul div#accordiondiv ul li,div#accordiondiv ul li
+{
+	margin: 0;
+	padding: 2px;
+}

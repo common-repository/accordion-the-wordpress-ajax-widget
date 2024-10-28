@@ -1,0 +1,23 @@
+.accordion-tabwrap{
+border-bottom: 1px solid black;
+padding-left: 4px;
+}
+.accordion-tab, .accordion-tabon{
+white-space: nowrap;
+display: inline;
+border: 1px solid black;
+padding: 0 5px;
+z-index: 2;
+background: white;
+border-bottom: none;
+margin-left: 5px;
+font-size: 75%;
+}
+.accordion-tab{
+border-color: #aaa;
+}
+.accordion-tabon{
+padding-top: 1px;
+position: relative;
+top: 1px;
+}
